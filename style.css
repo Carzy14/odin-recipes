@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    paddin: 0;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.title,
+ .sub-title,
+  .description,
+   .list-element{
+    font-family: Tahoma, sans-serif;
+   }
+
+.title{
+    font-size: 34px;
+}
+
+.sub-title{
+    font-size: 20px;
+}
+
+.description,
+ .list-element{
+    font-size: 14px;
+ }
+
+ .image{
+    height: 500px;
+    width: auto;
+ }
+
+ .home{
+    font-size: 18px;
+    font-weight: bold;
+ }
